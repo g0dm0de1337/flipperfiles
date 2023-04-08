@@ -9,3 +9,4 @@ Schließe deinen USB stick an und deinen flipper
 
 starte das skript
 
+https://youtu.be/UK-DBRAimew
