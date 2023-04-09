@@ -1,7 +1,7 @@
 # Wifi passwort auf einem externen USB stick portieren
 
 Bearbeite: 
-einer der letzteren zeilen mit Q: anfängt und ersetze ihn mit deinem USB pfad, lösche alle sterne
+einer der letzteren zeilen die mit Q: anfängt und ersetze ihn mit deinem USB pfad, lösche alle sterne
 
 Lade die datei auf deinen flipper
 
