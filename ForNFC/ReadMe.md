@@ -1,6 +1,6 @@
 # Flipper Zer0 kontrolliert Smartphones nur per NFC !!
 
-YouTube Link folgt !!
+# https://youtu.be/VNOCdoMADlo
 
 
 Als erstes schick ich euch mal den whatsapplink
