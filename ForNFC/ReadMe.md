@@ -21,9 +21,10 @@ Schon ist der Link fertig !!
 * Fügt hier in der zweiten Zeile euer Link ein (ohne https:// das sollte schon in der ersten Zeile stehen)
 * "ok"
 * Jetzt seid ihr wieder im fenster/beim reiter "Schreiben"
-- unten seht ihr wie groß euer code ist.. NTAG213 ist beispielsweise kleiner (für kurze Links), dagegen kann NTAG216 sehr lange Links annehmen/ falls ein NTAG mal nicht klappen sollte, testet ein anderen.. 
+- unten seht ihr wie groß euer code ist.. NTAG213 ist beispielsweise kleiner (für kurze Links/ einzelne befehle), dagegen kann NTAG216 sehr lange Links annehmen und MEHRERE BEFEHLE AUSFÜHREN
+ [falls ein NTAG mal nicht klappen sollte, testet ein anderen..]
 - du hast die wahl zwischen NTAG213 - NTAG216
-* Klickt nun unten Rechts auf "schreiben" 
+* Klickt nun mittig (unter "mehr optionen" der Button) auf "schreiben" 
 [Euer NFC-Chip am Smartphone verschickt nun die ganze zeit den Code]
 
 # am Flipper NFC schnappen
@@ -31,7 +32,7 @@ Schon ist der Link fertig !!
 * NTAG213-216
 * Klickt auf "Emulate"
 * Eure Blanko NTAG karte, wird beschrieben 
-sobald der NFC-chip eures Smartphones an den FlipperZer0 gelegt wird
+-> sobald der NFC-chip eures Smartphones an den FlipperZer0 gelegt wird
 * "Save" und gib deiner karte einen namen
 
 * Testet nun euren NFC code 
