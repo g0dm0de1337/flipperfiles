@@ -1,1 +1,24 @@
 #Flipper Zer0 kontrolliert Smartphones nur per NFC !!
+
+
+Als erstes schick ich ech mal den whatsapplink
+
+wa.me/491**********?text=blablabla
+
+Link Aufteilung:
+* wa.me/ = wählt die WhatsApp App im Smartphone aus und öffnet diese
+* 4917655555555 = hier kommt eure Nummer rein, damit die Nachricht auch an euch geht
+* ?text=... = Hier kommt euer Text rein der an euch gehen soll (mit %20 macht ihr Leerzeichen im Text)
+
+Schon ist der Link fertig !!
+
+# NFC Tool Pro
+* Geh hier auf den reiter "Schreiben"
+* Hier wählt ihr nun "Datensatz hinzufügen"
+* Als nächstes wählt ihr "URL/URI"
+* Fügt hier in der zweiten Zeile euer Link ein (ohne https:// das sollte schon in der ersten Zeile stehen)
+* "ok"
+* Jetzt seid ihr wieder im fenster/beim reiter "Schreiben"
+- unten seht ihr wie groß euer code ist.. NTAG213 ist beispielsweise kleiner (für kurze Links), dagegen ka
+
+
