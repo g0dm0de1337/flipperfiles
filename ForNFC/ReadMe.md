@@ -19,6 +19,8 @@ Schon ist der Link fertig !!
 * Fügt hier in der zweiten Zeile euer Link ein (ohne https:// das sollte schon in der ersten Zeile stehen)
 * "ok"
 * Jetzt seid ihr wieder im fenster/beim reiter "Schreiben"
-- unten seht ihr wie groß euer code ist.. NTAG213 ist beispielsweise kleiner (für kurze Links), dagegen ka
+- unten seht ihr wie groß euer code ist.. NTAG213 ist beispielsweise kleiner (für kurze Links), dagegen kann NTAG216 sehr lange Links annehmen/ falls ein NTAG mal nicht klappen sollte, testet ein anderen.. 
+- du hast die wahl zwischen NTAG213 - NTAG216
+
 
 
