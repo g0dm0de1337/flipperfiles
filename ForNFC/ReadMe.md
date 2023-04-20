@@ -3,7 +3,7 @@
 YouTube Link folgt !!
 
 
-Als erstes schick ich ech mal den whatsapplink
+Als erstes schick ich euch mal den whatsapplink
 
 wa.me/491**********?text=blablabla
 
