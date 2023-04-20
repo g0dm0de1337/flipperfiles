@@ -1,5 +1,7 @@
 #Flipper Zer0 kontrolliert Smartphones nur per NFC !!
 
+YouTube Link folgt !!
+
 
 Als erstes schick ich ech mal den whatsapplink
 
@@ -21,6 +23,16 @@ Schon ist der Link fertig !!
 * Jetzt seid ihr wieder im fenster/beim reiter "Schreiben"
 - unten seht ihr wie groß euer code ist.. NTAG213 ist beispielsweise kleiner (für kurze Links), dagegen kann NTAG216 sehr lange Links annehmen/ falls ein NTAG mal nicht klappen sollte, testet ein anderen.. 
 - du hast die wahl zwischen NTAG213 - NTAG216
+* Klickt nun unten Rechts auf "schreiben" 
+[Euer NFC-Chip verschickt die ganze zeit den Code]
+
+# am Flipper NFC schnappen
+* "Add Manually" 
+* NTAG213-216
+* Klickt auf "Emulate"
+* Eure Blanko NTAG karte, wird beschrieben 
+sobald der NFC-chip eures Smartphones an den FlipperZer0 gelegt wird
+* "Save" und gib deiner karte einen namen
 
 
 
