@@ -24,7 +24,7 @@ Schon ist der Link fertig !!
 - unten seht ihr wie groß euer code ist.. NTAG213 ist beispielsweise kleiner (für kurze Links), dagegen kann NTAG216 sehr lange Links annehmen/ falls ein NTAG mal nicht klappen sollte, testet ein anderen.. 
 - du hast die wahl zwischen NTAG213 - NTAG216
 * Klickt nun unten Rechts auf "schreiben" 
-[Euer NFC-Chip verschickt die ganze zeit den Code]
+[Euer NFC-Chip am Smartphone verschickt nun die ganze zeit den Code]
 
 # am Flipper NFC schnappen
 * "Add Manually" 
