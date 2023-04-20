@@ -34,5 +34,6 @@ Schon ist der Link fertig !!
 sobald der NFC-chip eures Smartphones an den FlipperZer0 gelegt wird
 * "Save" und gib deiner karte einen namen
 
-
+* Testet nun euren NFC code 
+* Falls mal wieder einer nach deiner whatsapp nummer fragt, hole dein FlipperZer0 raus und sei auf die blicke gespannt 😏👌🏻
 
