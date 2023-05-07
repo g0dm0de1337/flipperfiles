@@ -1,5 +1,9 @@
 # Wifi passwort auf einem externen USB stick portieren
 
+> HackWiFiwithUSB-Q.txt (without edit, but make a new USB stick with letter "Q" and folders: WifiHack/passwort/ with T)
+> 
+
+
 Bearbeite: 
 einer der letzteren zeilen die mit Q: anfängt und ersetze ihn mit deinem USB pfad, lösche alle sterne
 
@@ -11,8 +15,8 @@ Formatiere deinen USB-stick und gibt ihm mit hilde des tools
 Einen FESTEN BUCHSTABEN
 (Ich habe Q: genommen)
 
-Erstelle die Ordner "BadUSB"
-Und in diesen Ordner erstellst du den Ordner "WifiHack"
+Erstelle die Ordner "WifiHack"
+Und in diesen Ordner erstellst du den Ordner "passwort" (mit T !!)
 
 Jetzt lade die BadUSB.txt datei auf deinen flipper
 
