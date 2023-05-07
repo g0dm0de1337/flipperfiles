@@ -1,12 +1,12 @@
 REM Author: g0dm0de1337 Unl0ck-m0de 
 
-REM Description: "ORGINAL" (without edits)Steals all of the saved Wifi Passwords and stores them into a USB device of your choice. 
+REM Description: "4 Desktop" (without edits)Steals all of the saved Wifi Passwords and stores them into a USB device of your choice. 
 
-REM Description2: use the "wizard USB Multitool" and format the usb-stick.. 
+REM Description2: make a zip with passwords on desktop
 
-REM Description2.1: give your USB-stick the letter "Q" and make the new folders: /WiFiHack/passwort/
 
-REM work: put your new "Q" USB-stick in your windows.. put your FlipperZer0 too in your windows and start the BadUSB script
+
+
 
 REM Version: 1.0 
 
