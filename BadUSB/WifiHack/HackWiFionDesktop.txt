@@ -6,8 +6,6 @@ REM Description2: make a zip with passwords on desktop
 
 
 
-
-
 REM Version: 1.0 
 
 REM Category: Passwords 
