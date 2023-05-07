@@ -3,7 +3,9 @@
 > HackWiFiwithUSB-Q.txt 
 - without edit, but make a new USB stick with letter "Q" and folders: WiFiHack/passwort/ with T
 > Wifi2USB_FlipperZer0.txt (dont work without edit.. test script)
-- edit the longer line, and replace the "Q:/WiFiHack/passwort" (and delete all stars) path with your desktop path.. this is how the passwords are stored on the desktop
+- edit the longer line, and replace the "Q:/WiFiHack/passwort" (and delete all stars) path with your own path for test.. 
+> HackWiFionDesktop.txt
+- work and make the password on your desktop
 
 
 Bearbeite: 
