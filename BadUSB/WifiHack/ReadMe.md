@@ -1,6 +1,6 @@
 # Wifi passwort auf einem externen USB stick portieren
 
-> HackWiFiwithUSB-Q.txt (without edit, but make a new USB stick with letter "Q" and folders: WifiHack/passwort/ with T)
+> HackWiFiwithUSB-Q.txt (without edit, but make a new USB stick with letter "Q" and folders: WiFiHack/passwort/ with T)
 > 
 
 
