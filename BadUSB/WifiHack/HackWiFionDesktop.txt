@@ -1,6 +1,6 @@
 REM Author: g0dm0de1337 Unl0ck-m0de 
 
-REM Description: "4 Desktop" (without edits)Steals all of the saved Wifi Passwords and stores them into a USB device of your choice. 
+REM Description: "4 Desktop" (without edits)Steals all of the saved Wifi Passwords and stores them into your Desktop
 
 REM Description2: make a zip with passwords on desktop
 
